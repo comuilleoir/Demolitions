@@ -23,21 +23,21 @@ This project investigates patterns in demolition activities to aid urban develop
 
 Geospacial Plot of Demolition Notifications
 
-![Geospacial Plot](https://github.com/comuilleoir/Demolition-Notification-Analysis/Project_Images/geospacial_dist.png)
+![Geospacial Plot](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/geospacial_dist.png)
 
 Optimised Random Forest Confusion Matrix
 
-![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolition-Notification-Analysis/Project_Images/demos_conf_matrix.png)
+![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/demos_conf_matrix.png)
 
 ### Insights and Correlations
 
 Feature Importance Ranking
 
-![Feature Importance Ranking](https://github.com/comuilleoir/Demolition-Notification-Analysis/Project_Images/feat_import.png)
+![Feature Importance Ranking](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/feat_import.png)
 
 Reduced Level Random Forest Model Plot
 
-![Reduced Level Random Forest Model Plot](https://github.com/comuilleoir/Demolition-Notification-Analysis/Project_Images/small_tree.png)
+![Reduced Level Random Forest Model Plot](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/small_tree.png)
 
 ## Conclusion
 The project highlights the complex relationship between urban demolition activities and crime rates. While predictive modeling provides insights, the findings suggest a need for more nuanced data and advanced modeling techniques for more accurate predictions.
