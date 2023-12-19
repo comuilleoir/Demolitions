@@ -13,7 +13,7 @@ This project investigates patterns in demolition activities to aid urban develop
 - Despite model optimisations, challenges in predicting property status with high accuracy were observed, indicating the complexity of urban dynamics.
 
 ## Repository Contents
-- `Data`: Original and preprocessed datasets of demolition notifications and crime reports.
+- `Data`: Original and preprocessed datasets of demolition notifications. The crime data file is too large for Github, but is available at https://data.world/detroit/dpd-crime-incidents-2009-2016
 - `Scripts`: Python scripts and Jupyter notebooks for data cleaning, analysis, modeling, and visualisation.
 - `Project_Images`: Generated graphs and charts illustrating demolition trends and their correlation with crime data.
 
