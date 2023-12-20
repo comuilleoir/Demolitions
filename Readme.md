@@ -25,7 +25,7 @@ This project investigates patterns in demolition activities to aid urban develop
 Geospatial Plot of Demolition Notifications
 ![Geospatial Plot](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/geospacial_dist.png)
 
-Optimized Random Forest Confusion Matrix
+Optimized Random Forest Confusion Matrix  
 ![Optimized Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/demos_conf_matrix.png)
 
 ### Insights and Correlations
