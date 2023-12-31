@@ -1,7 +1,7 @@
 # Demolition Notification Analysis Using Data Analytics
 
 ## Project Overview
-This project investigates patterns in demolition activities to aid urban development and planning in the City of Detroit. By merging demolition notice data with city-wide criminal incident reports, it aims to predict property vacancy or abandonment. The analysis covers data from January 2009 to April 2015.
+This project investigates patterns in demolition activities to aid urban development and planning in the City of Detroit. By merging demolition notice data with city-wide criminal incident reports, it aims to predict property vacancy or abandonment. The analysis covers data from January 2009 to April 2015, using Random Forest algorithms to identify key patterns and correlations.
 
 ## Methodology
 - **Data Sources:** Demolition notifications from the Ferndale City Open Data site and Detroit's city-wide criminal incident reports.
@@ -12,6 +12,11 @@ This project investigates patterns in demolition activities to aid urban develop
 - **Geographical Patterns:** Identified key geographical patterns in demolition activities and their correlation with crime rates.
 - **Modeling Challenges:** Despite efforts in model optimization, including bagging techniques, challenges in accurately predicting property status were observed. This underlines the complexity of urban dynamics and the possible need for additional data.
 - **Reduced Scope:** Given the limitations in improving model performance with existing data, a decision was made to reduce the scope of the outcomes.
+
+## Technologies Used
+- **Python**: For scripting, data preprocessing, and model implementation.
+- **Random Forest**: Employed for its effectiveness in handling complex datasets and providing insightful results.
+- **Data Visualization**: Tools like Matplotlib and seaborn for illustrating data patterns.
 
 ## Repository Contents
 - `Data`: Original and preprocessed datasets of demolition notifications. The crime data file is too large for Github but is available [here](https://data.world/detroit/dpd-crime-incidents-2009-2016).
@@ -36,5 +41,6 @@ Feature Importance Ranking
 Reduced Level Random Forest Model Plot
 ![Reduced Level Random Forest Model Plot](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/small_tree.png)
 
-## Conclusion
-The project highlights the complex interplay between urban demolition activities and crime rates. While predictive modeling offers valuable insights, the findings emphasize the need for more nuanced data and advanced modeling techniques for more accurate predictions.
+## Future Work
+- **Model Refinement**: Further tuning of the Random Forest model to enhance prediction accuracy.
+- **Data Expansion**: Incorporating additional datasets to improve the model's robustness and applicability to other urban areas.
